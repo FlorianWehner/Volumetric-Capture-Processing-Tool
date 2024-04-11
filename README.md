@@ -2,6 +2,13 @@
 The Volumetric Capture Processing Tool is a Python script with a graphical user interface (GUI) built using PySide6 and QT Designer. 
 This script facilitates the management and execution of a photogrammetry pipeline using Metashape, helping to automate the processing of hundreds of frames for a volumetric capture datasets.
 
+## Demo Video
+To watch a video demo of the project, click here:
+
+[![Video Demo](https://img.youtube.com/vi/DkoWkKtu9sE/0.jpg)](https://youtu.be/DkoWkKtu9sE)
+
+
+
       ### Python Code Example
       
       ```python
@@ -111,10 +118,7 @@ qt designer project
 
 
 
-## Demo Video
-To watch a video demo of the project, click here:
 
-[![Video Demo](https://img.youtube.com/vi/DkoWkKtu9sE/0.jpg)](https://youtu.be/DkoWkKtu9sE)
 
 
 
